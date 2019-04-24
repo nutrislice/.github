@@ -7,7 +7,7 @@
 ## Review Checklist
 - [ ] Code follows style guide.
 - [ ] Edge use cases tested.
-- [ ] Unit tests added.
+- [ ] Unit tests added and passing.
 - [ ] Recent merge from `develop`.
 - [ ] Test and Lint successful.
 - [ ] Initial UAT Review by Product Manager.
