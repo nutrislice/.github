@@ -1,8 +1,8 @@
 ## Description
 <description of your changes>
 
-## Trello
-<links to related Trello cards>
+## Jira
+<links to related Jira issues>
 
 ## Review Checklist
 - [ ] Code completed and follows style guide.
