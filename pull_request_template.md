@@ -13,6 +13,7 @@
 - [ ] Initial UAT Review by Product Manager.
 - [ ] Test and Lint successful.
 - [ ] Code Review requested.
+- [ ] Functions/methods are easy to understand (each takes less than 5 or so seconds to grasp)
 
 ## Merge Checklist
 - [ ] Code Review completed.
