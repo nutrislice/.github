@@ -4,16 +4,21 @@
 ## Jira
 <links to related Jira issues>
 
-## Review Checklist
-- [ ] Code completed and follows style guide.
+## Pre-Review Checklist
+- [ ] Code follows style guide.
+- [ ] Functions/methods are easy to understand (each takes less than 5 or so seconds to grasp).
 - [ ] Unit tests written and passing.
-- [ ] Recent merge back from `develop`|`release`|`master`.
 - [ ] Tested all primary and clear edge use cases.
-- [ ] Reviewed and documented for any additional risk of vulnerability (e.g., OWASP Top 10)
-- [ ] Initial UAT Review by Product Manager.
+- [ ] If applicable, initial UAT Review by Product Manager.
+- [ ] Reviewed and documented any additional risk of vulnerability (e.g. OWASP Top 10).
+- [ ] Migrations, custom commands, environment changes documented in [Release Callouts](https://nutrislice-squad.monday.com/boards/3972083388).
+  
+## Review Checklist
+- [ ] Recent merge back from `develop`|`release`|`master`.
 - [ ] Test and Lint successful.
+- [ ] Detailed description added.
+- [ ] Jira linked added.
 - [ ] Code Review requested.
-- [ ] Functions/methods are easy to understand (each takes less than 5 or so seconds to grasp)
 
 ## Merge Checklist
 - [ ] Code Review completed.
