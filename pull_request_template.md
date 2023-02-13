@@ -16,8 +16,7 @@
 ## Review
 - [ ] Recent merge back from `develop`|`release`|`master`.
 - [ ] Test and Lint successful.
-- [ ] Detailed description added.
-- [ ] Jira link added.
+- [ ] Jira link and detailed description added.
 - [ ] Code Review requested.
 
 ## Merge
