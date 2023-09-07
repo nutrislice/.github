@@ -12,4 +12,4 @@
 ## Reviewer
 - Code is adequately unit tested.
 - Code does not increase our risk of vulnerability (e.g. [OWASP Top 10](https://owasp.org/Top10)).
-- Functions/methods are easy to understand (less than ~5 seconds to grasp).
+- Functions are easy to understand (less than ~5 seconds to grasp).
