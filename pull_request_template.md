@@ -6,7 +6,7 @@
 
 ## Creator
 - [ ] Confirmed Pre or Post Merge UAT.
-- [ ] Dev testing details and QA testing instructions added to Jira card.
+- [ ] Dev testing details and any additional QA testing instructions added to Jira card.
 - [ ] Migrations, custom commands, environment changes documented in [Release Callouts](https://nutrislice-squad.monday.com/boards/3972083388).
 
 ## Reviewer
